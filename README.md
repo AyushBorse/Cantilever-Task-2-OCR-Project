@@ -308,12 +308,6 @@ Contributions are welcome! Areas for improvement:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 *Author*
-
-*[Pooja Gajjar]*
-- GitHub: [@poojaa77](https://github.com/poojaa77)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/pooja-gajjar-4bb121285/)
-
 ## 🙏 *Acknowledgments*
 
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for powerful text recognition
